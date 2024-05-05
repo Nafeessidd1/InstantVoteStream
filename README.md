@@ -62,4 +62,4 @@ streamlit run streamlit-app.py
 
 
 ### Dashboard
-![dashboard_image.png](/Users/nafeessiddiqui/Desktop/Reamtime-voting/dashboard_image (1) (1) 2/dashboard_.png)
+![dashboard_image (1) (1)-1](https://github.com/Nafeessidd1/Realtime-Voting-System/assets/106441992/b827a8e0-8b9e-48d7-ac77-8c050df8ac6f)
